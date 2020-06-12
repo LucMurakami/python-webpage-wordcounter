@@ -2,10 +2,7 @@
 
 ## Usage
 
-./word_counter <<Full Domain Name>>
-
-ie.
-./word_counter https://www.lipsum.com/
+`./word_counter https://www.lipsum.com/`
 
 ## Additional Notes
 
