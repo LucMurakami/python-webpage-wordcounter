@@ -2,7 +2,9 @@
 
 ## Usage
 
-`./word_counter https://www.lipsum.com/`
+```shell
+./word_counter https://www.lipsum.com/
+```
 
 ## Additional Notes
 
