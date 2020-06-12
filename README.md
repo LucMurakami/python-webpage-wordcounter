@@ -3,7 +3,7 @@
 ## Usage
 
 ```shell
-./word_counter https://www.lipsum.com/
+./word_counter.py https://www.lipsum.com/
 ```
 
 ## Additional Notes
