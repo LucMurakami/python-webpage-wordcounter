@@ -1,5 +1,7 @@
 # Python Word Counter Script
 
+This script counts the words on a webpage.
+
 ## Usage
 
 ```shell
